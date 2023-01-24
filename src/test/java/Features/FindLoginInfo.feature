@@ -1,4 +1,4 @@
-Feature: Find Login Information
+Feature: Find Login Information of User
 
 @FindLoginValid
   Scenario Outline: Find Login Information Valid Details1
