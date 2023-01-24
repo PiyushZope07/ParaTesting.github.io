@@ -1,4 +1,4 @@
-Feature: Login Scenario
+Feature: Login Scenarios
 
 @CheckingAccount
   Scenario Outline: Open Checking acount
