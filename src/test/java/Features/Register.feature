@@ -1,4 +1,4 @@
-Feature: Registration Scenario
+Feature: Registration scenario
 
 @RegistrationWithValid
   Scenario Outline: Registration With Valid Details
