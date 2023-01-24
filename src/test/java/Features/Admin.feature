@@ -1,4 +1,4 @@
-Feature: Admin
+Feature: Admin Scenario
 
 @AdminDatabaseInitialize
   Scenario: Database Initialization
