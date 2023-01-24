@@ -1,4 +1,4 @@
-Feature: Login Scenario
+Feature: Login scenario
 
 @LoginValid
   Scenario Outline: Login With Valid Details
