@@ -1,4 +1,4 @@
-Feature: Redirectable Link
+Feature: Redirectable Links
 
 @AboutUS
   Scenario: About Us link is redirectable or not
